@@ -19,16 +19,17 @@ I am also enhancing my **English** skills, aiming to expand my opportunities and
 <div>
   <div>  
     <p align="center">
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/> &nbsp;&nbsp;&nbsp;
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring"/> &nbsp;&nbsp;&nbsp;
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL"/> &nbsp;&nbsp;&nbsp;
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/> &nbsp;&nbsp;&nbsp;
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/> &nbsp;&nbsp;&nbsp;
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> &nbsp;&nbsp;&nbsp;
-      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-    </p>
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/> &nbsp;&nbsp;&nbsp;
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring"/> &nbsp;&nbsp;&nbsp;
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/> &nbsp;&nbsp;&nbsp;
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/> &nbsp;&nbsp;&nbsp;
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/> &nbsp;&nbsp;&nbsp;
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/> &nbsp;&nbsp;&nbsp;
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> &nbsp;&nbsp;&nbsp;
+      
+
   </div>
 
   <div align="center">
