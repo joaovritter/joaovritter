@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hey everyone! I'm João Vitor dos Santos Ritter  
 
-<!--
-**joaovritter/joaovritter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **6th-semester Information Systems** student at **Universidade Franciscana** and passionate about technology, especially **software development**. Since the beginning of my degree, I have been seeking to deepen my knowledge by exploring new tools, languages, and methodologies.  
 
-Here are some ideas to get you started:
+💻 **What motivates me:**  
+- Creating innovative solutions  
+- Learning and applying software development best practices  
+- Working in teams and sharing knowledge  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **My journey so far:**  
+I have participated in academic and personal projects that strengthened my programming logic, teamwork organization, and ability to quickly learn new tools and technologies. I am always looking for new challenges that allow me to grow as a developer.  
+
+🚀 **Currently:**  
+In addition to my academic activities, I am dedicated to improving my skills in **Java**, **Spring Boot**, **React**, and software development best practices.  
+I am also enhancing my **English** skills, aiming to expand my opportunities and facilitate collaboration on international projects.
+
+##
+
+<div>
+  <div>  
+    <p align="center">
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/> &nbsp;&nbsp;&nbsp;
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring"/> &nbsp;&nbsp;&nbsp;
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL"/> &nbsp;&nbsp;&nbsp;
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/> &nbsp;&nbsp;&nbsp;
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/> &nbsp;&nbsp;&nbsp;
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> &nbsp;&nbsp;&nbsp;
+      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+    </p>
+  </div>
+
+  <div align="center">
+    <a href="https://github.com/joaovritter">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovritter&layout=compact">
+    </a>
+  </div>
+</div>
+
+##
+
+<div> 
+  <a href="https://instagram.com/joao_vritter" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaovritter2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-vritter" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
