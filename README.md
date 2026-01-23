@@ -1,6 +1,6 @@
 ## Hey everyone! I'm João Vitor dos Santos Ritter  
 
-I am a **6th-semester Information Systems** student at **Universidade Franciscana** and passionate about technology, especially **software development**. Since the beginning of my degree, I have been seeking to deepen my knowledge by exploring new tools, languages, and methodologies.  
+I am a **7th-semester Information Systems** student at **Universidade Franciscana** and passionate about technology, especially **software development**. Since the beginning of my degree, I have been seeking to deepen my knowledge by exploring new tools, languages, and methodologies.  
 
 💻 **What motivates me:**  
 - Creating innovative solutions  
