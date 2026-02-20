@@ -25,7 +25,7 @@ I am also enhancing my **English** skills, aiming to expand my opportunities and
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> &nbsp;&nbsp;&nbsp;
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring"/> &nbsp;&nbsp;&nbsp;
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/> &nbsp;&nbsp;&nbsp;
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="Node.js"/> &nbsp;&nbsp;&nbsp;
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/> &nbsp;&nbsp;&nbsp;
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vue.js"/>&nbsp;&nbsp;&nbsp;
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
