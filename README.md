@@ -32,27 +32,18 @@ I am also enhancing my **English** skills, aiming to expand my opportunities and
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma"  /> &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  /> &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="aws"  /> &nbsp;&nbsp;&nbsp;
-          
-
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="aws"  />
+    </p>
   </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovritter&layout=compact" alt="Top Langs" />
-</div>
 </div>
 
 ##
 
 <div> 
-  <a href="https://instagram.com/joao_vritter" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=772896&logoColor=white&labelColor=&style=for-the-badge" target="_blank">
-  </a>
-  <a href = "mailto:joaovritter2004@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/joaovritter" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  <a href="https://instagram.com/joao_vritter" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=772896&logoColor=white&labelColor=&style=for-the-badge"></a>
+  &nbsp;
+  <a href="mailto:joaovritter2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/joaovritter" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
