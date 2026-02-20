@@ -52,7 +52,7 @@ I am also enhancing my **English** skills, aiming to expand my opportunities and
   <a href = "mailto:joaovritter2004@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/joao-vritter" target="_blank">
+  <a href="https://www.linkedin.com/in/joaovritter" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
