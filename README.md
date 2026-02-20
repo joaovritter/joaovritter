@@ -37,11 +37,9 @@ I am also enhancing my **English** skills, aiming to expand my opportunities and
 
   </div>
 
-  <div align="center">
-    <a href="https://github.com/joaovritter">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovritter&layout=compact">
-    </a>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovritter&layout=compact" alt="Top Langs" />
+</div>
 </div>
 
 ##
