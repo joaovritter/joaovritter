@@ -1,18 +1,30 @@
-## Hey everyone! I'm João Vitor dos Santos Ritter  
+# João Vitor dos Santos Ritter
 
-I am a **7th-semester Information Systems** student at **Universidade Franciscana** and passionate about technology, especially **software development**. Since the beginning of my degree, I have been seeking to deepen my knowledge by exploring new tools, languages, and methodologies.  
+🎓 Information Systems Student (7th semester) — Universidade Franciscana
 
-💻 **What motivates me:**  
-- Creating innovative solutions  
-- Learning and applying software development best practices  
-- Working in teams and sharing knowledge  
+💻 Backend & Web Developer | Java • Spring Boot • Node.js • React
 
-📚 **My journey so far:**  
-I have participated in academic and personal projects that strengthened my programming logic, teamwork organization, and ability to quickly learn new tools and technologies. I am always looking for new challenges that allow me to grow as a developer.  
+---
 
-🚀 **Currently:**  
-In addition to my academic activities, I am dedicated to improving my skills in **Java**, **Spring Boot**, **React**, and software development best practices.  
-I am also enhancing my **English** skills, aiming to expand my opportunities and facilitate collaboration on international projects.
+## 👨‍💻 About Me
+
+I am an Information Systems student passionate about software development and technology. I focus on building scalable, maintainable, and well-structured applications while continuously improving both my technical and professional skills.
+
+Alongside my academic journey, I have worked on academic and personal projects that strengthened my programming logic, structured problem-solving, teamwork, and autonomy in learning new technologies.
+
+I am motivated by challenges, continuous learning, and the opportunity to contribute with efficient and reliable software solutions.
+
+---
+
+## 🚀 Current Focus
+
+* Backend development using **Java** and **Spring Boot**
+* REST API development with **Node.js**
+* Modern frontend interfaces with **React** and **Tailwind CSS**
+* Clean Architecture, code organization, and best development practices
+* Improving my **English** for international collaboration
+
+---
 
 ##
 
@@ -46,4 +58,3 @@ I am also enhancing my **English** skills, aiming to expand my opportunities and
   &nbsp;
   <a href="https://www.linkedin.com/in/joaovritter" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-
