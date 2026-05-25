@@ -8,11 +8,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de Sistemas de Informação apaixonado por desenvolvimento de software e tecnologia. Meu foco é construir aplicações escaláveis, manuteníveis e bem estruturadas, enquanto aprimoro continuamente minhas habilidades técnicas e profissionais.
+Sou estudante de Sistemas de Informação e entusiasta do desenvolvimento de software e tecnologia. Meu foco é construir boas aplicações que geram valor e solucionam problemas, enquanto aprimoro minhas habilidades técnicas e profissionais.
 
-Paralelamente à minha jornada acadêmica, tenho trabalhado em projetos acadêmicos e pessoais que fortaleceram minha lógica de programação, resolução estruturada de problemas, trabalho em equipe e autonomia no aprendizado de novas tecnologias.
+Junto aos estudos, tenho trabalhado em projetos acadêmicos e pessoais que fortaleceram minha stack, resolução de problemas, trabalho em equipe e autonomia para aprender de novas tecnologias.
 
-Sou motivado por desafios, aprendizado contínuo e pela oportunidade de contribuir com soluções de software eficientes e confiáveis.
+Curto desafios, busco estar em aprendizado contínuo para acompanhar nossa área.
 
 ---
 
