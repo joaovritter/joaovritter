@@ -1,28 +1,28 @@
 # João Vitor dos Santos Ritter
 
-🎓 Information Systems Student (7th semester) — Universidade Franciscana
+🎓 Estudante de Sistemas de Informação (7º semestre) — Universidade Franciscana
 
-💻 Backend & Web Developer | Java • Spring Boot • Node.js • React
-
----
-
-## 👨‍💻 About Me
-
-I am an Information Systems student passionate about software development and technology. I focus on building scalable, maintainable, and well-structured applications while continuously improving both my technical and professional skills.
-
-Alongside my academic journey, I have worked on academic and personal projects that strengthened my programming logic, structured problem-solving, teamwork, and autonomy in learning new technologies.
-
-I am motivated by challenges, continuous learning, and the opportunity to contribute with efficient and reliable software solutions.
+💻 Desenvolvedor Backend & Web | Java • Spring Boot • Node.js • React
 
 ---
 
-## 🚀 Current Focus
+## 👨‍💻 Sobre Mim
 
-* Backend development using **Java** and **Spring Boot**
-* REST API development with **Node.js**
-* Modern frontend interfaces with **React** and **Tailwind CSS**
-* Clean Architecture, code organization, and best development practices
-* Improving my **English** for international collaboration
+Sou estudante de Sistemas de Informação apaixonado por desenvolvimento de software e tecnologia. Meu foco é construir aplicações escaláveis, manuteníveis e bem estruturadas, enquanto aprimoro continuamente minhas habilidades técnicas e profissionais.
+
+Paralelamente à minha jornada acadêmica, tenho trabalhado em projetos acadêmicos e pessoais que fortaleceram minha lógica de programação, resolução estruturada de problemas, trabalho em equipe e autonomia no aprendizado de novas tecnologias.
+
+Sou motivado por desafios, aprendizado contínuo e pela oportunidade de contribuir com soluções de software eficientes e confiáveis.
+
+---
+
+## 🚀 Foco Atual
+
+* Desenvolvimento Backend utilizando **Java** e **Spring Boot**
+* Desenvolvimento de APIs REST com **Node.js**
+* Interfaces frontend modernas com **React** e **Tailwind CSS**
+* Clean Architecture, organização de código e melhores práticas de desenvolvimento
+* Aprimoramento do meu **Inglês** para colaboração internacional
 
 ---
 
@@ -42,9 +42,9 @@ I am motivated by challenges, continuous learning, and the opportunity to contri
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/> &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma"  /> &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  /> &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="aws"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma"   /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"   /> &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="aws"   />
     </p>
   </div>
 </div>
