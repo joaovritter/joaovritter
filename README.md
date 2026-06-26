@@ -2,7 +2,7 @@
 
 🎓 Estudante de Sistemas de Informação (7º semestre) — Universidade Franciscana
 
-💻 Desenvolvedor Fullstack | Node.js • React • Java • Spring Boot • Docker • AWS
+💻 Desenvolvedor Fullstack | Node.js • React • Flutter • Java • Spring Boot • Docker • AWS
 
 ---
 
@@ -18,11 +18,12 @@ Curto desafios, busco estar em aprendizado contínuo para acompanhar nossa área
 
 ## 🚀 Foco Atual
 
-* Desenvolvimento Backend utilizando **Java**, **Spring Boot** **Python**
+* Desenvolvimento Backend utilizando **Java**, **Spring Boot**, **Python**
 * Desenvolvimento de APIs REST com **Node.js**
-* Interfaces frontend com **React**, **Vue** e **HTML/CSS**
+* Interfaces frontend com **React**, **Vue**, **Flutter**, **React Native** e **HTML/CSS**
 * Contenerização com **Docker**
-* Deploy com **AWS**
+* Deploy com **AWS** e **Google Cloud**
+* Banco de dados Relacionais e Não Relacionais
 * Clean Architecture, organização de código e boas práticas de desenvolvimento
 * Curso de inglês no **CCAA**.
 ---
