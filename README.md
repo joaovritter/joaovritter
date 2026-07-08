@@ -18,8 +18,8 @@ Curto desafios, busco estar em aprendizado contínuo para acompanhar nossa área
 
 ## 🚀 Foco Atual
 
-* Desenvolvimento Backend utilizando **Java**, **Spring Boot**, **Python**
 * Desenvolvimento de APIs REST com **Node.js**
+* Desenvolvimento Backend utilizando **Java**, **Spring Boot**, **Python**
 * Interfaces frontend com **React**, **Vue**, **Flutter**, **React Native** e **HTML/CSS**
 * Contenerização com **Docker**
 * Deploy com **AWS** e **Google Cloud**
