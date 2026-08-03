@@ -4,7 +4,7 @@
 
 💻 Desenvolvedor Fullstack | Node.js • React • Flutter • Java • Spring Boot • Docker • AWS
 
-https://joaovritter.vercel.app/
+<a href="https://joaovritter.vercel.app/" target="_blank">Acesse meu portfólio</a>
 
 ---
 
