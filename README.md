@@ -1,6 +1,6 @@
 # João Vitor dos Santos Ritter
 
-🎓 Estudante de Sistemas de Informação (7º semestre) — Universidade Franciscana
+🎓 Estudante de Sistemas de Informação (8º semestre) — Universidade Franciscana
 
 💻 Desenvolvedor Fullstack | Node.js • React • Flutter • Java • Spring Boot • Docker • AWS
 
